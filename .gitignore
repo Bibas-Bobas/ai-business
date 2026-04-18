@@ -1,0 +1,42 @@
+# Large data & archives
+dataset/
+dataset.zip
+*.zip
+*.7z
+Dataset_2025*/
+Russia/
+
+# Model checkpoints (download separately or from release)
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Run outputs
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Geo / large local assets
+*.gpkg
+*.gdb/
+
+# Scratch
+Untitled
+*.log
+
+.ipynb_checkpoints/
