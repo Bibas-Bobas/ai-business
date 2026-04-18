@@ -289,13 +289,6 @@ python generate_drift_from_history.py ^
 
 - Не публиковать закрытые GeoTIFF и веса в открытый репозиторий без политики организации.
 
----
-
-## Известные ограничения
-
-- Имена файлов для `generate_drift_from_history.py` должны содержать маркеры времени **`YYYYMMDDTHHMMSS`** (формат Sentinel-1 в product id).
-- `train_unet2` и `train.py` — **разные архитектуры и форматы чекпойнтов**; инференс-примеры в `inference.py` и `mask_inpaint_predictor.py` ориентированы на **train_unet2**.
-- Смешение версий NumPy/PyTorch может ломать CUDA — см. раздел зависимостей.
 
 ---
 
@@ -307,8 +300,3 @@ python generate_drift_from_history.py ^
 4. Проверить: `inference.py --metrics` на `val`.
 5. Экспорт предсказания в TIFF: `mask_inpaint_predictor.py`.
 
----
-
-## Лицензия и атрибуция
-
-Уточните у правообладателей данных Sentinel-1 / внутренних композитов и политику публикации кода и весов для вашей организации.
