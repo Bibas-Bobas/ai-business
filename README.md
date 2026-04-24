@@ -32,7 +32,7 @@
 
 ---
 
-![metrics](https://github.com/Bibas-Bobas/ai-business/blob/4fcd32f950cc63cde76318dcd5fc3acf1b488524/inference.png)
+![metrics](https://github.com/Bibas-Bobas/ai-business/blob/175e507349744208d537d9f3178600bfb99f9ba4/metrics.png)
 ![inference](https://github.com/Bibas-Bobas/ai-business/blob/4fcd32f950cc63cde76318dcd5fc3acf1b488524/inference.png)
 
 
