@@ -32,6 +32,10 @@
 
 ---
 
+![metrics](https://github.com/Bibas-Bobas/ai-business/blob/4fcd32f950cc63cde76318dcd5fc3acf1b488524/inference.png)
+![inference](https://github.com/Bibas-Bobas/ai-business/blob/4fcd32f950cc63cde76318dcd5fc3acf1b488524/inference.png)
+
+
 ## Структура репозитория
 
 ```
